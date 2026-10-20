@@ -29,4 +29,12 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/charitha1802/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/charitha1802/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/charitha1802/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
