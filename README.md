@@ -32,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/charitha1802/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/charitha1802/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/charitha1802/Leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
