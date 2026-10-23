@@ -17,6 +17,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/charitha1802/Leetcode-solutions/tree/master/0027-remove-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/charitha1802/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/charitha1802/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/charitha1802/Leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/charitha1802/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/charitha1802/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
