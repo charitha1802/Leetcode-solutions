@@ -36,6 +36,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/charitha1802/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/charitha1802/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2409-count-days-spent-together](https://github.com/charitha1802/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/charitha1802/Leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/charitha1802/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Math
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/charitha1802/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
