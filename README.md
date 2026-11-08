@@ -18,6 +18,7 @@
 | [0027-remove-element](https://github.com/charitha1802/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/charitha1802/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/charitha1802/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1267-count-servers-that-communicate](https://github.com/charitha1802/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/charitha1802/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1882-process-tasks-using-servers](https://github.com/charitha1802/Leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/charitha1802/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -100,4 +101,24 @@
 | [0584-find-customer-referee](https://github.com/charitha1802/Leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [1045-customers-who-bought-all-products](https://github.com/charitha1802/Leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1280-students-and-examinations](https://github.com/charitha1802/Leetcode-solutions/tree/master/1280-students-and-examinations) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/charitha1802/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/charitha1802/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/charitha1802/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/charitha1802/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/charitha1802/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
