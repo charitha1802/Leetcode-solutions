@@ -23,6 +23,7 @@
 | [1882-process-tasks-using-servers](https://github.com/charitha1802/Leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/charitha1802/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/charitha1802/Leetcode-solutions/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/charitha1802/Leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/charitha1802/Leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/charitha1802/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/charitha1802/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -45,6 +46,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/charitha1802/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/charitha1802/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/charitha1802/Leetcode-solutions/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/charitha1802/Leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## String
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/charitha1802/Leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/charitha1802/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
