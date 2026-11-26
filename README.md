@@ -71,12 +71,14 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/charitha1802/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/charitha1802/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/charitha1802/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/charitha1802/Leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/charitha1802/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/charitha1802/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/charitha1802/Leetcode-solutions/tree/master/0067-add-binary) |
+| [3360-stone-removal-game](https://github.com/charitha1802/Leetcode-solutions/tree/master/3360-stone-removal-game) |
 ## Hash Table
 |  |
 | ------- |
